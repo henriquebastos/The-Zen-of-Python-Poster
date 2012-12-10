@@ -1,4 +1,4 @@
-# The Zen of Python, Agile and Small Acts Poster
+# The Zen of Python, Agile and Small Acts Posters
 
 Original concept by https://github.com/Matt-Stevens/The-Zen-of-Python-Poster, kindly forked to embrace Agile and Small Acts manifestos.
 
